@@ -11,4 +11,7 @@ Relevant artifacts:
  - [Detailed literature review on computer vision for wildlife monitoring and research](document/literature-review-computer-vision-wildlife-monitoring.pdf)
  - [Reproducibility paper for animal identification experiment described by Carl et al. (2020)](document/reproducibility-experiment-animal-identification-carl.pdf)
 
+The executed reproducibility experiment is also available as a 
+[Jupyter notebook](reproducibility-experiment-carl.ipynb).
+
 The work is done as part of an interdisciplinary project with the University of Veterinary Medicine Vienna and the Vienna University of Technology.
