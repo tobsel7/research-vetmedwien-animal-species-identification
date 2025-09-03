@@ -1,15 +1,25 @@
-# See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 project:
+  authors:
+    - id: contributors-myst-generated-uid-0
+      nameParsed:
+        literal: Tobias Abraham Haider
+        given: Tobias Abraham
+        family: Haider
+      name: Tobias Abraham Haider
+      orcid: 0009-0007-3722-3717
+      corresponding: true
+      email: e11833743@student.tuwien.ac.at
+      affiliations:
+        - Vienna University of Technology
+        - University of Veterinary Medicine Vienna
+      github: tobsel7
+  affiliations:
+    - id: Vienna University of Technology
+      name: Vienna University of Technology
+    - id: University of Veterinary Medicine Vienna
+      name: University of Veterinary Medicine Vienna
+  license: CC-BY-4.0
   id: 584ef8ae-26d7-4772-9529-a230f7cfbf22
-  # title:
-  # description:
-  # keywords: []
-  # authors: []
-  github: https://github.com/tobsel7/research-reproducibility-animal-identification-fasterrcnn-inceptionresnetv2
-  # To autogenerate a Table of Contents, run "myst init --write-toc"
 site:
   template: book-theme
-  # options:
-  #   favicon: favicon.ico
-  #   logo: site_logo.png
