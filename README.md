@@ -7,7 +7,7 @@ The reproducibility experiment is based on a
 [paper by Carl et al.](http://doi.org/10.1007/s10344-020-01404-y)
 
 The executed reproducibility experiment is available as a [website](https://tobsel7.github.io/research-vetmedwien-animal-species-identification/reproducibility-experiment-carl/)
-and [source code](reproducibility-experiment-carl.ipynb).
+and [source code](reproducibility-experiment-animal-identification-carl.ipynb).
 
 Paper artifacts:
  - [Preliminary literature review on low-energy machine learning in veterinary medicine](document/literature-review-leml-veterinary-medicine.pdf)
