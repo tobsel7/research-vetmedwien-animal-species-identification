@@ -6,7 +6,7 @@ animals with computation-enabled camera traps.
 The reproducibility experiment is based on a 
 [paper by Carl et al.](http://doi.org/10.1007/s10344-020-01404-y)
 
-The executed reproducibility experiment is available as a [website](https://tobsel7.github.io/research-vetmedwien-animal-species-identification/reproducibility-experiment-carl/)
+The executed reproducibility experiment is available as a [website](https://tobsel7.github.io/research-vetmedwien-animal-species-identification/reproducibility-experiment-animal-identification-c)
 and [source code](reproducibility-experiment-animal-identification-carl.ipynb).
 
 Paper artifacts:
