@@ -1,56 +1,23 @@
-| Imagenet Label             | Mapped Label   |
-|:---------------------------|:---------------|
-| gazelle                    | antelope       |
-| impala                     | antelope       |
-| American_black_bear        | bear           |
-| brown_bear                 | bear           |
-| ground_beetle              | beetle         |
-| leaf_beetle                | beetle         |
-| rhinoceros_beetle          | beetle         |
-| dung_beetle                | beetle         |
-| wild_boar                  | boar           |
-| ringlet                    | butterfly      |
-| monarch                    | butterfly      |
-| sulphur_butterfly          | butterfly      |
-| lycaenid                   | butterfly      |
-| Egyptian_cat               | cat            |
-| tabby                      | cat            |
-| Siamese_cat                | cat            |
-| Persian_cat                | cat            |
-| lynx                       | cat            |
-| ox                         | cow            |
-| water_buffalo              | cow            |
-| Dungeness_crab             | crab           |
-| red_deer                   | deer           |
-| elk                        | deer           |
-| Labrador_retriever         | dog            |
-| Border_collie              | dog            |
-| Chihuahua                  | dog            |
-| Bouvier_des_Flandres       | dog            |
-| Brittany_spaniel           | dog            |
-| English_setter             | dog            |
-| Greater_Swiss_Mountain_dog | dog            |
-| Ibizan_hound               | dog            |
-| Mexican_hairless           | dog            |
-| Pekinese                   | dog            |
-| Pomeranian                 | dog            |
-| golden_retriever           | dog            |
-| pug                        | dog            |
-| ass                        | donkey         |
-| mallard                    | duck           |
-| bald_eagle                 | eagle          |
-| golden_eagle               | eagle          |
-| African_elephant           | elephant       |
-| Indian_elephant            | elephant       |
-| Arctic_fox                 | fox            |
-| red_fox                    | fox            |
-| ibex                       | goat           |
-| mountain_goat              | goat           |
-| Arabian_horse              | horse          |
-| Appaloosa                  | horse          |
-| wallaby                    | kangaroo       |
-| agama                      | lizard         |
-| alligator_lizard           | lizard         |
-| Komodo_dragon              | lizard         |
-| American_lobster           | lobster        |
-| house_mouse                | mouse          |
+| mapped label   | imagenet label                                                                                                                                                                                                |
+|:---------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| antelope       | gazelle, impala                                                                                                                                                                                               |
+| bear           | American_black_bear, brown_bear                                                                                                                                                                               |
+| beetle         | ground_beetle, leaf_beetle, rhinoceros_beetle, dung_beetle                                                                                                                                                    |
+| boar           | wild_boar                                                                                                                                                                                                     |
+| butterfly      | ringlet, monarch, sulphur_butterfly, lycaenid                                                                                                                                                                 |
+| cat            | Egyptian_cat, tabby, Siamese_cat, Persian_cat, lynx                                                                                                                                                           |
+| cow            | ox, water_buffalo                                                                                                                                                                                             |
+| crab           | Dungeness_crab                                                                                                                                                                                                |
+| deer           | red_deer, elk                                                                                                                                                                                                 |
+| dog            | Labrador_retriever, Border_collie, Chihuahua, Bouvier_des_Flandres, Brittany_spaniel, English_setter, Greater_Swiss_Mountain_dog, Ibizan_hound, Mexican_hairless, Pekinese, Pomeranian, golden_retriever, pug |
+| donkey         | ass                                                                                                                                                                                                           |
+| duck           | mallard                                                                                                                                                                                                       |
+| eagle          | bald_eagle, golden_eagle                                                                                                                                                                                      |
+| elephant       | African_elephant, Indian_elephant                                                                                                                                                                             |
+| fox            | Arctic_fox, red_fox                                                                                                                                                                                           |
+| goat           | ibex, mountain_goat                                                                                                                                                                                           |
+| horse          | Arabian_horse, Appaloosa                                                                                                                                                                                      |
+| kangaroo       | wallaby                                                                                                                                                                                                       |
+| lizard         | agama, alligator_lizard, Komodo_dragon                                                                                                                                                                        |
+| lobster        | American_lobster                                                                                                                                                                                              |
+| mouse          | house_mouse                                                                                                                                                                                                   |
