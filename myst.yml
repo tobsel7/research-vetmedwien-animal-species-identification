@@ -22,4 +22,4 @@ project:
   license: CC-BY-4.0
   id: 584ef8ae-26d7-4772-9529-a230f7cfbf22
 site:
-  template: book-theme
+  template: article-theme
