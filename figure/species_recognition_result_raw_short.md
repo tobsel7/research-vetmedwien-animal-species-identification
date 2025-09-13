@@ -1,12 +1,12 @@
-| y_true    | y_pred       |
-|:----------|:-------------|
-| antelope  | gazelle      |
-| badger    | badger       |
-| bat       | hummingbird  |
-| bear      | brown_bear   |
-| bee       | bee          |
-| beetle    | honeycomb    |
-| bison     | bison        |
-| boar      | wild_boar    |
-| butterfly | ringlet      |
-| cat       | Egyptian_cat |
+| y_pred       | y_true    |
+|:-------------|:----------|
+| gazelle      | antelope  |
+| badger       | badger    |
+| hummingbird  | bat       |
+| brown_bear   | bear      |
+| bee          | bee       |
+| honeycomb    | beetle    |
+| bison        | bison     |
+| wild_boar    | boar      |
+| ringlet      | butterfly |
+| Egyptian_cat | cat       |
