@@ -14,4 +14,6 @@ Paper artifacts:
  - [Detailed literature review on computer vision for wildlife monitoring and research](document/literature-review-computer-vision-wildlife-monitoring.pdf)
  - [Reproducibility paper for animal identification experiment described by Carl et al. (2020)](document/reproducibility-experiment-animal-identification-carl.pdf)
 
+Cite this repository using this DOI: [10.5281/zenodo.17116549](https://doi.org/10.5281/zenodo.17116549)
+
 The work is done as part of an interdisciplinary project with the University of Veterinary Medicine Vienna and the Vienna University of Technology.
